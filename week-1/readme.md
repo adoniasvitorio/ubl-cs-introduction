@@ -1,4 +1,5 @@
-### O que é Ciencias da computação?
+## Semana 01
+
 Ciência que surgiu em meados do seculo 20. Ela engloba aspectos de várias áreas do conhecimento humano.
   	 * Matemática: A Matemática é o fundamento incial da ciências da computação.
 	 * Engenharia: Contrução de sistemas computacionais complexos envolvendo hardware ou software.
@@ -15,3 +16,14 @@ Ciência que surgiu em meados do seculo 20. Ela engloba aspectos de várias áre
 
 ### O que é algoritmo?
 Pode se entender como uma sequencia de instruções para resolver determinado problema.
+
+
+### Introdução ao Python
+    	* Operadores aritméticos.
+	* Operadores lógicos.
+	* Operadores relacionais.
+    	* Variaveis.
+	* Comando `print`.
+
+### O que é software livre.
+        * Definições 
