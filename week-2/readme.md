@@ -11,10 +11,10 @@
 * Resolução de exercícios.
 	
 ### Listas de exercícios
-* [convertFahrenheithToCelsius](exercicios/covertFahrenheitToCelsius.py)
 * [hCounter](exercicios/hCounter.py)
-* [quadrado](exercicios/quadrado.py)
-* [fatura](exercicios/fatura.py)
-* [media](exercicios/media.py)
-* [dezenas](exercicios/dezenas.py)
-* [segundos](exercicios/segundos.py)
+* convertFahrenheithToCelsius: [Python](exercicios/convertFahrenheitToCelsius.py) | [C++](exercicios/convertFahrenheitToCelsius.cpp)
+* quadrado: [Python](exercicios/quadrado.py) | [C++](exercicios/quadrado.cpp)
+* fatura: [Python](exercicios/fatura.py) | [C++](exercicios/fatura.cpp)
+* media: [Python](exercicios/media.py) | [C++](exercicios/media.cpp)
+* dezenas: [Python](exercicios/dezenas.py) | [C++](exercicios/dezenas.cpp)
+* segundos: [Python](exercicios/segundos.py) | [C++](exercicios/segundos.cpp)
