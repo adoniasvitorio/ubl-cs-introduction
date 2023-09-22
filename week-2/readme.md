@@ -1,20 +1,20 @@
 ## Semana 02
 
 ### Introdução ao python (Continuação)
-    	 * Tipos de dados.
-	 * Operadores atitméticos (Divissão inteira `//` e resto `%`.
-	 * Conversão de tipos (`int()`, `float()`, `bool()` e `str()`.
-	 * Comando `len`.
+* Tipos de dados.
+* Operadores atitméticos (Divissão inteira `//` e resto `%`).
+* Conversão de tipos (`int()`, `float()`, `bool()` e `str()`).
+* Comando `len`.
 
 ### Entrada de dados
-        * Comando `input`.
-	* Resolução de exercícios.
+* Comando `input`.
+* Resolução de exercícios.
 	
 ### Listas de exercícios
-    	* convertFahrenheithToCelsius
-	* hCounter
-	* quadrado
-	* fatura
-	* media
-	* dezenas
-	* segundos
+* [convertFahrenheithToCelsius](exercicios/covertFahrenheitToCelsius.py)
+* [hCounter](exercicios/hCounter.py)
+* [quadrado](exercicios/quadrado.py)
+* [fatura](exercicios/fatura.py)
+* [media](exercicios/media.py)
+* [dezenas](exercicios/dezenas.py)
+* [segundos](exercicios/segundos.py)
