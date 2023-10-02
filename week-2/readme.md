@@ -12,7 +12,7 @@
 	
 ### Listas de exercícios
 * [hCounter](exercicios/hCounter.py)
-* convertFahrenheithToCelsius: [Python](exercicios/convertFahrenheitToCelsius.py) | [C++](exercicios/convertFahrenheitToCelsius.cpp)
+* [convertFahrenheithToCelsius](exercicios/convertFahrenheitToCelsius.py)
 * [quadrado](exercicios/quadrado.py)
 * [fatura](exercicios/fatura.py)
 * [media](exercicios/media.py)

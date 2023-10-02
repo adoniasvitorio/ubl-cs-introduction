@@ -7,8 +7,8 @@
 * Prescedencia entre operadores.
 	
 ### Listas de exercícios
-* paridade: [Python](exercicios/paridade.py)
-* fizz: [Python](exercicios/fizz.py)
-* buzz: [Python](exercicios/buzz.py)
-* fizzbuzz: [Python](exercicios/fizzbuzz.py)
-* ordenacao: [Python](exercicios/ordenacao.py)
+* [paridade](exercicios/paridade.py)
+* [fizz](exercicios/fizz.py)
+* [buzz](exercicios/buzz.py)
+* [fizzbuzz](exercicios/fizzbuzz.py)
+* [ordenacao](exercicios/ordenacao.py)
